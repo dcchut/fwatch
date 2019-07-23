@@ -82,7 +82,7 @@ impl<W: Watchable> Watcher<W> {
     /// # Examples
     ///
     /// ```
-    /// use filewatch::{BasicTarget, Watcher};
+    /// use fwatch::{BasicTarget, Watcher};
     ///
     /// fn main() {
     ///     let mut watcher: Watcher<BasicTarget> = Watcher::new();
@@ -100,7 +100,7 @@ impl<W: Watchable> Watcher<W> {
     /// # Examples
     ///
     /// ```
-    /// use filewatch::{BasicTarget, Watcher};
+    /// use fwatch::{BasicTarget, Watcher};
     ///
     /// fn main() {
     ///     let mut watcher : Watcher<BasicTarget> = Watcher::new();
@@ -121,7 +121,7 @@ impl<W: Watchable> Watcher<W> {
     /// # Examples
     ///
     /// ```
-    /// use filewatch::{BasicTarget, Watcher};
+    /// use fwatch::{BasicTarget, Watcher};
     ///
     /// fn main() {
     ///     let mut watcher : Watcher<BasicTarget> = Watcher::new();
@@ -151,7 +151,7 @@ impl<W: Watchable> Watcher<W> {
     /// # Examples
     ///
     /// ```no_run
-    /// use filewatch::{BasicTarget, Watcher, WatchState};
+    /// use fwatch::{BasicTarget, Watcher, WatchState};
     ///
     /// fn main() {
     ///     let mut watcher : Watcher<BasicTarget> = Watcher::new();
@@ -174,7 +174,7 @@ impl<W: Watchable> Watcher<W> {
     /// # Examples
     ///
     /// ```
-    /// use filewatch::{BasicTarget, Watcher, WatchState};
+    /// use fwatch::{BasicTarget, Watcher, WatchState};
     ///
     /// fn main() {
     ///     let mut watcher : Watcher<BasicTarget> = Watcher::new();
@@ -195,7 +195,7 @@ impl<W: Watchable> Watcher<W> {
     /// # Examples
     ///
     /// ```
-    /// use filewatch::{BasicTarget, Watcher, Transition};
+    /// use fwatch::{BasicTarget, Watcher, Transition};
     ///
     /// fn main() {
     ///     let mut watcher : Watcher<BasicTarget> = Watcher::new();
