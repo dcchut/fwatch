@@ -12,7 +12,7 @@ Add this to your `Cargo.toml':
 
 ```toml
 [dependencies]
-fwatch = "0.1.1"
+fwatch = "0.1.2"
 ```
 ## Basic Usage
 
