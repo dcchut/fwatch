@@ -8,7 +8,7 @@ fwatch is a file watching library written in Rust.
 ---
 ## Installation
 
-Add this to your `Cargo.toml':
+Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
