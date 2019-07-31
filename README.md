@@ -3,7 +3,7 @@
 fwatch is a file watching library written in Rust.
 
 * [API Documentation](https://docs.rs/fwatch/)
-* Cargo package: [fwatch](https://crates.io/crates/fwatchs)
+* Cargo package: [fwatch](https://crates.io/crates/fwatch)
 
 ---
 ## Installation
