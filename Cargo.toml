@@ -1,12 +1,12 @@
 [package]
 name = "fwatch"
-version = "0.1.4"
+version = "0.1.5"
 readme = "README.md"
 authors = ["Robert Usher <266585+dcchut@users.noreply.github.com>"]
 edition = "2018"
 description = "A simple file watching crate"
 repository="https://github.com/dcchut/fwatch"
-license="Apache-2.0"
+license = "MIT OR Apache-2.0"
 
 [dependencies]
 
